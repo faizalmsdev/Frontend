@@ -8,7 +8,6 @@ const Layout = (props) => {
       <div className='mx-[120px] relative h-[60px] ' >
         <Header />
       </div>
-      
         {props.children}
       <Footer />
     </div>
