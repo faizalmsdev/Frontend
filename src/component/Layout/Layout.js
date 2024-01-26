@@ -4,8 +4,8 @@ import Footer from '../Footer/Footer'
 
 const Layout = (props) => {
   return (
-    <div className='lg:px-[70px] lg:py-[20px] bg-hero'>
-      <div className='mx-[120px] relative h-[60px]' >
+    <div className='bg-hero '>
+      <div className='mx-[120px] relative h-[60px] ' >
         <Header />
       </div>
       

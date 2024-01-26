@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header className='mb-[26px]  bg-header fixed ml-[5%] w-[65%] rounded-3xl'>
+    <header className='mb-[26px] mt-[26px]  bg-header fixed ml-[8%] w-[65%] rounded-3xl'>
       <nav className="bg-opacity-90  border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-opacity-70 dark:bg-gray-800">
         <div className="  flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           <a href="/" className="flex items-center">
