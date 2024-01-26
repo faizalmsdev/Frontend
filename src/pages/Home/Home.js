@@ -6,10 +6,13 @@ const Home = () => {
   return (
     <div className=''>
       <Layout>
+        <div className='bg-hero'>
         <Container width="92%" height="520px">
-          h3
+          <h1 className='text-text'>hi</h1><h3 className='text-highlight'>h3</h3>h3
 
         </Container>
+        </div>
+        
       </Layout>
     </div>
   )
